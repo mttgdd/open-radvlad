@@ -1,2 +1,5 @@
-# open-radvlad
-Open-RadVLAD: Shift and Rotation Invariant Radar Place Recognition with the Fourier Transform and VLAD
+# Open-RadVLAD
+
+Open-RadVLAD: Fast and Robust Radar Place Recognition
+
+> :warning: This work is currently under review.
