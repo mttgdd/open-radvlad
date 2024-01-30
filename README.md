@@ -1,6 +1,6 @@
 # Open-RadVLAD: Fast and Robust Radar Place Recognition
 
-This is an open implementation and benchmark from the paper at 
+This is an open implementation and benchmark from the paper 
 
 **Open-RadVLAD: Fast and Robust Radar Place Recognition**
 M. Gadd and P. Newman <br>
