@@ -1,0 +1,8 @@
+pandas
+Pillow
+tqdm
+numpy
+scikit-learn
+scipy
+opencv-python-headless
+scikit-image
