@@ -6,11 +6,9 @@ from tqdm import tqdm
 def sino_fft(x, cfg):
     theta = np.arange(0,180)
     R = radon(x, theta=theta)
-    # print(R.shape)
     R /= np.max(R)
     R = R.astype(np.float64)
-    R = rescale(R, scale=cfg['scale']) # original cv2.resize
-    # print(R.shape)
+    R = rescale(R, scale=cfg['scale'])
     R = np.abs(np.fft.fft(R, axis=0))
     R = R[:int(R.shape[0]/2),:]
     R = (R-np.mean(R))/np.std(R)
