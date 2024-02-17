@@ -11,7 +11,7 @@ If you use this code in your research, please cite the following paper:
 
 ```bash
 @inproceedings{gadd2024openradvlad,
-title={{Open-RadVLAD: Fast Shift and Rotation Invariant Radar Place Recognition}},
+title={{Open-RadVLAD: Fast and Robust Radar Place Recognition}},
 author={Gadd, Matthew and Newman, Paul},
 booktitle={IEEE Radar Conference (RadarConf)},
 year={2024}
