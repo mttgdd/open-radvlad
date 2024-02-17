@@ -2,7 +2,7 @@
 
 This is an open implementation and benchmark from the paper 
 
-**Open-RadVLAD: Fast and Robust Radar Place Recognition**
+**Open-RadVLAD: Fast and Robust Radar Place Recognition** <br>
 M. Gadd and P. Newman <br>
 *IEEE Radar Conference (RadarConf), 2024* <br>
 [https://arxiv.org/abs/2401.15380](https://arxiv.org/abs/2401.15380)
